@@ -1,0 +1,13 @@
+Python is a popular programming language.
+
+FastAPI is a Python framework used to build APIs.
+
+RAG stands for Retrieval-Augmented Generation.
+
+RAG retrieves relevant information from documents and uses a language model to generate answers.
+
+Embeddings are numerical representations of text.
+
+ChromaDB is a vector database used to store and search embeddings.
+
+LangChain helps developers build applications using language models and retrieval systems.
